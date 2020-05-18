@@ -1,0 +1,14 @@
+{
+    "country": {
+        "positive": 1433696,
+        "negative": 9286489,
+        "death": 81729,
+        "totalTestResults": 10720185
+    },
+    "state": {
+        "positive": 388,
+        "negative": 32030,
+        "death": 10,
+        "totalTestResults": 32418
+    }
+}
